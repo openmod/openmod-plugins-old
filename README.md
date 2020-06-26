@@ -11,7 +11,7 @@ For more information, use the `help` command: e.g. use `help openmod install`.
 | Name                              | NuGet Package ID                | Author  | Platform | Description                       | License    | Source Code                                                                                                                                                                                |
 |-----------------------------------|---------------------------------|---------|----------|-----------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | OpenMod RocketMod Bridge          | [OpenMod.Rocket.Unturned](https://www.nuget.org/packages/OpenMod.Rocket.Unturned)       | OpenMod | unturned | Legacy RM4 support for OpenMod    | MIT        | [GitHub](https://github.com/openmod/OpenMod/tree/master/unturned/rocketmod)                                               |
-| OpenMod RocketMod Permission Link | [OpenMod.Rocket.PermissionLink]((https://www.nuget.org/packages/OpenMod.Rocket.PermissionLink) | OpenMod | unturned | Makes RM4 use OpenMod Permissions | EUPL\-1\.2 | [GitHub](https://github.com/openmod/OpenMod/tree/master/unturned/rocketmod/Rocket.PermissionLink) |
+| OpenMod RocketMod Permission Link | [OpenMod.Rocket.PermissionLink](https://www.nuget.org/packages/OpenMod.Rocket.PermissionLink) | OpenMod | unturned | Makes RM4 use OpenMod Permissions | EUPL\-1\.2 | [GitHub](https://github.com/openmod/OpenMod/tree/master/unturned/rocketmod/Rocket.PermissionLink) |
 
 # Contributing
 
