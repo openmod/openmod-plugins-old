@@ -27,4 +27,5 @@ After ensuring you meet these conditions, you can add your plugin:
 - Select Markdown, copy and paste the "OpenMod Plugins List" table from this file and click on "Import Data".
 - Add your plugin(s) in **alphabetical order**.
 - Add your license as SPDX identifier. See [here](https://spdx.org/licenses/) for SPDX identifiers.
+- Keep your descriptions as short as possible
 - Create a pull request.
