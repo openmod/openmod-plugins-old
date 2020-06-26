@@ -25,7 +25,7 @@ After ensuring you meet these conditions, you can add your plugin:
 - Go to https://tableconvert.com/.
 - Click on "Import".
 - Select Markdown, copy and paste the "OpenMod Plugins List" table from this file and click on "Import Data".
-- Add your plugin(s) in **alphabetical order**.
+- Add your plugin(s) in **alphabetical order**, based on the name. Plugins abusing the alphabetical ordering will be rejected.
 - Add your license as SPDX identifier. See [here](https://spdx.org/licenses/) for SPDX identifiers.
 - Keep your descriptions as short as possible
 - Create a pull request.
