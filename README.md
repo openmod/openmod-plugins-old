@@ -16,17 +16,17 @@ For more information, use the `help` command: e.g. use `help openmod install`.
 
 # Contributing
 
-Before adding your plugin to this list, ensure the following conditions are met:
-* You do not violate any copyright.
-* The plugin must be licensed under an [open source license](https://opensource.org/licenses).
-* The plugin package must be published to nuget.org.
-* The source code must be available publicly.
+Before adding your plugin to this list, ensure that the following conditions are met:
+* Your plugin does not violate any copyright.
+* The plugin is licensed under an [open source license](https://opensource.org/licenses).
+* The plugin package is already published on nuget.org.
+* The source code is available publicly (e.g. on GitHub).
 
 After ensuring you meet these conditions, you can add your plugin:
-- Go to https://tableconvert.com/.
-- Click on "Import".
-- Select Markdown, copy and paste the "OpenMod Plugins List" table from this file and click on "Import Data".
+- Go to https://www.tablesgenerator.com/.
+- Click on File->Paste table data...
+- Paste the table from above and click load.
 - Add your plugin(s) in **alphabetical order**, based on the name. Plugins abusing the alphabetical ordering will be rejected.
 - Add your license as SPDX identifier. See [here](https://spdx.org/licenses/) for SPDX identifiers.
-- Keep your descriptions as short as possible
+- Keep your descriptions as short as possible.
 - Create a pull request.
