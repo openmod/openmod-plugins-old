@@ -1,8 +1,8 @@
 # OpenMod Plugins
 
 ## Installing and Managing OpenMod Plugins
-- To install a plugin, run the command `openmod install <NuGet Package ID>`.  
-- To update plugins, run `openmod update <NuGet Package ID>`. 
+- To install a plugin, run the command `openmod install <NuGet Package ID[:Version]> [-Pre]>`.  
+- To update plugins, do the same as to install it.
 - To uninstall a plugin, run `openmod uninstall <NuGet Package ID>`.
 
 For more information, use the `help` command: e.g. use `help openmod install`.
@@ -18,7 +18,8 @@ For more information, use the `help` command: e.g. use `help openmod install`.
 | OpenMod RocketMod Permission Link | [OpenMod.Rocket.PermissionLink](https://www.nuget.org/packages/OpenMod.Rocket.PermissionLink)        | OpenMod   | unturned | Makes RM4 use OpenMod Permissions                                                                              | EUPL-1.2     | [GitHub](https://github.com/openmod/OpenMod/tree/master/unturned/rocketmod/Rocket.PermissionLink) |
 | Player Info Library               | [Pustalorc.PlayerInfoLib.Unturned](https://www.nuget.org/packages/Pustalorc.PlayerInfoLib.Unturned/) | Pustalorc | unturned | Player Info Library, store information about all your players.                                                 | EUPL-1.2     | [GitHub](https://github.com/Pustalorc/PlayerInfoLib/)                                             |
 | Permission Extensions             | [DiFFoZ.PermissionExtensions](https://www.nuget.org/packages/DiFFoZ.PermissionExtensions/)           | DiFFoZ    | unturned | Add support prefix, suffix, and color for OpenMod                                                              | GPL-3.0-only | [GitHub](https://github.com/DiFFoZ/PermissionExtensions)                                          |
-| RealisticVehicleLock 	            | [SS.RealisticVehicleLock](https://www.nuget.org/packages/ss.realisticvehiclelock/)                   | Senior S  | unturned | A plugin to add more realism to your roleplay server, the name say all!                                        | EUPL-1.2     | [Github](https://github.com/Senior-S/RealisticVehicleLock-OpenMod)                                |
+| RealisticVehicleLock              | [SS.RealisticVehicleLock](https://www.nuget.org/packages/ss.realisticvehiclelock/)                   | Senior S  | unturned | A plugin to add more realism to your roleplay server, the name say all!                                        | EUPL-1.2     | [Github](https://github.com/Senior-S/RealisticVehicleLock-OpenMod)                                |
+| UconomyToEconomyProvider          | [UconomyToEconomyProvider](https://www.nuget.org/packages/UconomyToEconomyProvider)                  | Rube200   | unturned | Support rocketmod plugins to use OpenMod Economy                                                               | GPL-3.0-only | [Github](https://github.com/Rube200/UconomyToEconomyProvider)                                     |
 
 
 # Contributing
