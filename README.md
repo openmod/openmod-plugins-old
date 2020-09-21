@@ -1,7 +1,7 @@
 # OpenMod Plugins
 
 ## Installing and Managing OpenMod Plugins
-- To install a plugin, run the command `openmod install <NuGet Package ID[:Version]> [-Pre]>`.  
+- To install a plugin, run the command `openmod install <NuGet Package ID[@Version]> [-Pre]>`.  
 - To update plugins, do the same as to install it.
 - To uninstall a plugin, run `openmod uninstall <NuGet Package ID>`.
 
